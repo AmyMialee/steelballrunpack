@@ -331,6 +331,11 @@ hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
+file = "mods/tightfire.pw.toml"
+hash = "8f290653f1c25abf3ab7f66908fe3b4087a995a28a94d694b8c592ffbb11e185"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true

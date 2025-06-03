@@ -1,6 +1,6 @@
 name = "I Have No Mouth But I Must Chat"
 filename = "ihavenomouthbutimustchat-1.21.1-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xZRYPJWD/versions/n3JCrLcr/ihavenomouthbutimustchat-1.21.1-1.0.0.jar"

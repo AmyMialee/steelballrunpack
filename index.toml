@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/nyfsspiders-common.toml"
+hash = "15043157acfd53f6592f36528359e152339cfc9f8cebe7b15166ba70d1451cde"
+
+[[files]]
+file = "config/versionchanger.json5"
+hash = "3d9b063416c5322454d48c6ead21d2a1a9683e274c643261ed44f80c532f4fb8"
+
+[[files]]
 file = "mods/abandoned-villages.pw.toml"
 hash = "43404bc2dc411d1ad1e53c023283055d35c9c6a60dd743936f39e48b4aa6a25c"
 metafile = true

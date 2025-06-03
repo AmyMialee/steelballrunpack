@@ -1,0 +1,13 @@
+name = "Full TabList"
+filename = "full-tablist-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OFcs2Iww/versions/IPFcfVs9/full-tablist-1.1.jar"
+hash-format = "sha512"
+hash = "8f7fa7ed9de1e79cec766ba50e326bedfc46a44e42290872c27596f7fd074213b8e13ed478a0c91e0f91872925d27395427a61a3b26a2f9c537741330cfefa58"
+
+[update]
+[update.modrinth]
+mod-id = "OFcs2Iww"
+version = "IPFcfVs9"

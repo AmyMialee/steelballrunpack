@@ -1,0 +1,13 @@
+name = "I Have No Mouth But I Must Chat"
+filename = "ihavenomouthbutimustchat-1.21.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZRYPJWD/versions/n3JCrLcr/ihavenomouthbutimustchat-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "e8a62ebd8c22cec097989a16093b340af1e4f5fd2670e0b9382514bbea57f739f45eb5b677a98b6d63070dadbe206b75cd36d920b3fc7295a1cb2d2a15b0e239"
+
+[update]
+[update.modrinth]
+mod-id = "xZRYPJWD"
+version = "n3JCrLcr"

@@ -1,0 +1,13 @@
+name = "VehicleFix"
+filename = "vehiclefix-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oNRw3x5I/versions/N4xFwFvj/vehiclefix-5.1.1.jar"
+hash-format = "sha512"
+hash = "802f2fca2d29bb519a424ed5877e3076e2c9888d7e9843277f49ceb3f474105e50d8afbbe1153c36d8ef2464fbe7d86d13ff757cd8840a3d129b06402dd8b81b"
+
+[update]
+[update.modrinth]
+mod-id = "oNRw3x5I"
+version = "N4xFwFvj"

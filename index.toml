@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "fb8a3f7445891044cb8c6dc8c0825c05e5a595e1a1f1dda91f10c90a716e949b"
+metafile = true

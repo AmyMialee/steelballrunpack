@@ -299,6 +299,10 @@ hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
 metafile = true
 
 [[files]]
+file = "mods/sbr-1.0.0-event.jar"
+hash = "9a47e11e0f3aa7ac7e7994bd5af8d77ac1f9e874336c726bdd84c02c2f564193"
+
+[[files]]
 file = "mods/seedguard.pw.toml"
 hash = "71668a5543a5c46c5ae4f9e1437f6cb30803ad920e3f7abc4e79ddcb21926782"
 metafile = true

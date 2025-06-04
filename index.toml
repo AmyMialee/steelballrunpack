@@ -358,6 +358,11 @@ hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
 file = "mods/vanish.pw.toml"
 hash = "c82f9e8cadf0e7bc9f2001751670ae9a8546d9d13bf42e6601d34c0a8e83c46f"
 metafile = true

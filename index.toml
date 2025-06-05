@@ -34,6 +34,10 @@ hash = "be6429d1a792bf8881a8d7876e8bd9266da325c359720c77d5428ae77cd6d3c7"
 metafile = true
 
 [[files]]
+file = "mods/ballbreaker-1.21.1-1.0-SNAPSHOT.jar"
+hash = "836c901084c776972aec3274bfc7492c4ae64c6454c2c79377f410d936a230b3"
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "b97914d02e3e24091a3fed92803b409ba5a3773668d81292b99e1cd735184996"
 metafile = true

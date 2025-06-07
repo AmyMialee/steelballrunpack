@@ -301,6 +301,10 @@ hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
 
 [[files]]
+file = "mods/raceacrossamerica-1.21.1-1.0-SNAPSHOT.jar"
+hash = "1dfe464729846736c4d306d3d7e06d564a9634b8f8a0a9ba9c7508a2ea876c6e"
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "98362357cbb70b039275c055bb357fad1bb8a1566d5713dd7cfd9132dd606886"
 metafile = true

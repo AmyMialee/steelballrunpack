@@ -1,0 +1,13 @@
+name = "Leukocyte"
+filename = "leukocyte-0.3.9+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hsRVgp6Q/versions/hqsHvIy7/leukocyte-0.3.9%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "9cb1c4266e1a104b93bfe4878153500e1102028f7d38d268d1ee87b0c4ac6f5b39772f424f12bcd233e86779ab5f5a4eac67540c0318a9e8abd78bb45e8d2b03"
+
+[update]
+[update.modrinth]
+mod-id = "hsRVgp6Q"
+version = "hqsHvIy7"

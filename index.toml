@@ -47,11 +47,6 @@ hash = "b97914d02e3e24091a3fed92803b409ba5a3773668d81292b99e1cd735184996"
 metafile = true
 
 [[files]]
-file = "mods/big-rod-energy.pw.toml"
-hash = "2b1abc3c6a8fc2f61c5b44151bc65f9ee5f7fd17b2f8e1315619a08790434602"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
@@ -301,18 +296,13 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
-file = "mods/pronounmc-neo.pw.toml"
-hash = "e1bd68ed2cd4348bcd88f2773cbe56ba06961b4ee7b665eb900ef3b89c1b497f"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
 
 [[files]]
 file = "mods/raceacrossamerica-1.21.1-1.0-SNAPSHOT.jar"
-hash = "5eb616cf79587f5f5fdbd876a12653058d67557976f39954d7d3a969e5dbb892"
+hash = "7123348869ab1241b7fb4b9bdfc714eded3d735b531aeec7fac07edd294e8e4a"
 
 [[files]]
 file = "mods/raised.pw.toml"

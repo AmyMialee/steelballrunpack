@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/deserted-1.0-SNAPSHOT.jar"
-hash = "89f44f61d36193fd6d1080394f96340c1753670534f54a424bfea9fc9c3f70fb"
+hash = "85dfacaa1ddfbeb13c9009ca186945ad0928bab91900bffd70398364d8e73bdb"
 
 [[files]]
 file = "mods/distant-friends.pw.toml"

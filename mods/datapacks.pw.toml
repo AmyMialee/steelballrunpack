@@ -1,6 +1,6 @@
 name = "Global Datapacks"
 filename = "global-datapack-1.6.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/8vDEtmj4/global-datapack-1.6.1.jar"

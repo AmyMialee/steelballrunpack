@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
+hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
 metafile = true
 
 [[files]]
@@ -94,13 +94,17 @@ metafile = true
 
 [[files]]
 file = "mods/datapacks.pw.toml"
-hash = "ee8ebc5b30f4e529382bc93cc72ab1cd3e496cdd69099c13f5f3f8df350db2d2"
+hash = "ab50bba5184a75434d7ac4804a5a749d2a8cfb217bba0ba7d863d3eec3b53b46"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
+
+[[files]]
+file = "mods/deserted-1.0-SNAPSHOT.jar"
+hash = "04a8ab00c9c7244db6fe4821055eff4db2b424d0dbd99dbe5939ab8e9f2c4c00"
 
 [[files]]
 file = "mods/distant-friends.pw.toml"
@@ -110,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
+metafile = true
+
+[[files]]
+file = "mods/enchancement.pw.toml"
+hash = "266e18277d80a22d952feb002febbf3bf2c8c4fcaa8eb78967e7b9411585dbc0"
 metafile = true
 
 [[files]]
@@ -125,11 +134,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
-metafile = true
-
-[[files]]
-file = "mods/eternal-jesus.pw.toml"
-hash = "91e04838798695767a4a04f5c7bc81c321c54a7d64be0477a59485c5623c9ffa"
 metafile = true
 
 [[files]]
@@ -150,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "fb8a3f7445891044cb8c6dc8c0825c05e5a595e1a1f1dda91f10c90a716e949b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "55def4f8ff678c84931e73acf56b9a22e3ab4cfedc283a7143c7d28ac1e00fe3"
 metafile = true
 
 [[files]]
@@ -178,8 +187,18 @@ hash = "a0a4120479b3a00265797ba4ab4b351e7ea6730f1a0394d069da0d92165a3bd9"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "1a046997db63bd63850ca32d902f9b53e4f2cf65902e72b9213497d6ac534761"
+metafile = true
+
+[[files]]
 file = "mods/ihavenomouthbutimustchat.pw.toml"
 hash = "253210177e80d3fbff4ceb419a1122230cb3db4c6cc52bf3208fe00a876d8887"
+metafile = true
+
+[[files]]
+file = "mods/kaffees_dual_ride.pw.toml"
+hash = "5dea753130e77e9a78f569d593c37efd5babe0146f81154bbbd6a480e50d0dcf"
 metafile = true
 
 [[files]]

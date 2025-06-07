@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "68b3533d3e03aced2e4115057fc00214db5b280776ca64f6adf28b2a5333022e"
+
+[[files]]
 file = "config/nyfsspiders-common.toml"
 hash = "15043157acfd53f6592f36528359e152339cfc9f8cebe7b15166ba70d1451cde"
 

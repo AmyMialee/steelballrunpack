@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/raceacrossamerica-1.21.1-1.0-SNAPSHOT.jar"
-hash = "8c857194eb17a185baf62e271f20226aa22991511f0729f2ca05624e6f48e6ce"
+hash = "8abf82bffb6b94b366fbf4ed2225138c02bf5c12d00139a4eb58a63343c6b5ea"
 
 [[files]]
 file = "mods/raised.pw.toml"

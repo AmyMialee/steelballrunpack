@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/sbr-1.0.0-client.jar"
-hash = "0e41c0aa1b8f4e9e5cd5ba99f68e645e1d63f5763329291b8b22b567a32b4bfd"
+hash = "37f1885bb5600868c29e4c8e9c9c72314331208fe7159bcf79299f6d599aa02c"
 
 [[files]]
 file = "mods/seedguard.pw.toml"

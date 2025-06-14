@@ -205,6 +205,11 @@ hash = "253210177e80d3fbff4ceb419a1122230cb3db4c6cc52bf3208fe00a876d8887"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
+metafile = true
+
+[[files]]
 file = "mods/kaffees_dual_ride.pw.toml"
 hash = "5dea753130e77e9a78f569d593c37efd5babe0146f81154bbbd6a480e50d0dcf"
 metafile = true

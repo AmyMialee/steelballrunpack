@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash-pipe/crash.wav"
+hash = "4f743f7ccc1a8eb1ea8e5349bd597f032a5b7cdced206ebacb8205b5dab5295f"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "68b3533d3e03aced2e4115057fc00214db5b280776ca64f6adf28b2a5333022e"
 
@@ -321,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/raceacrossamerica-1.21.1-1.0-SNAPSHOT.jar"
-hash = "d1d089b960622aa1e1b075a2cba9f8b73e408786b1a48b9b0e6a97f1900b0c4e"
+hash = "093ccc949a8ded9252eb30a805053a41e3b06dc63729d96976b24f86c1788b9c"
 
 [[files]]
 file = "mods/raised.pw.toml"

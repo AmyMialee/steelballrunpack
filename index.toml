@@ -180,6 +180,11 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "6619cc397cc42ba6f094a91c3f9c92995c2f0c0443323f8d3ca64633d545c2ab"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
@@ -324,6 +329,16 @@ hash = "98362357cbb70b039275c055bb357fad1bb8a1566d5713dd7cfd9132dd606886"
 metafile = true
 
 [[files]]
+file = "mods/replay-voice-chat.pw.toml"
+hash = "70a41355db1d707ce95e774aa7510fa77c049ac37979d612c0e029a5b177ee9d"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "dae5adc2ab52bea2fb1e6f2e641ba2410c3ba399c5720bcce81631b4e92a87a4"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "2272f386d6106a691953f80822614643f0a4ef9df1cbff71fcc02caebd8ad45b"
 metafile = true
@@ -350,6 +365,11 @@ hash = "72045b7b0f81ebe3c94246c86f30b861b65b54851687a56783d928d7b2ef4bd7"
 [[files]]
 file = "mods/seedguard.pw.toml"
 hash = "71668a5543a5c46c5ae4f9e1437f6cb30803ad920e3f7abc4e79ddcb21926782"
+metafile = true
+
+[[files]]
+file = "mods/server-replay.pw.toml"
+hash = "9b90b675027db585fa9a581d11f50c7ac84f602efb6c353361069f841fa0a7d9"
 metafile = true
 
 [[files]]

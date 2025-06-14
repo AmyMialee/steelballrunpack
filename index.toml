@@ -294,11 +294,6 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
-file = "mods/notebook.pw.toml"
-hash = "c56372d7a080853347b11805898bb2c7e1954887095ddc34242c116c587608ec"
-metafile = true
-
-[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "1e7a61348b0f398ae21db13c0b77c0eb67b507c7ba0c598f0e4ee7ede2cb4dc0"
 metafile = true

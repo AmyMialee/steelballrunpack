@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/elegantarmour-1.21.1-1.3.0-BETA.jar"
-hash = "583cbd8ff481a521a4579d2f19e1c3a06a09a14b51049cb888295ba3086440f5"
+hash = "318fc92b1d1c9216c0329c1c71f1edf27d54032337d1c9357e7f01834b774814"
 
 [[files]]
 file = "mods/enchancement.pw.toml"

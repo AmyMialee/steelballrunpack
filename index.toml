@@ -205,6 +205,11 @@ hash = "253210177e80d3fbff4ceb419a1122230cb3db4c6cc52bf3208fe00a876d8887"
 metafile = true
 
 [[files]]
+file = "mods/invmove.pw.toml"
+hash = "7551e0f5aab31df987dc17a9fb31b50596be6ec6d1345bf9b9e9f1225560617c"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
 metafile = true
@@ -340,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/sbr-1.0.0-client.jar"
-hash = "37f1885bb5600868c29e4c8e9c9c72314331208fe7159bcf79299f6d599aa02c"
+hash = "72045b7b0f81ebe3c94246c86f30b861b65b54851687a56783d928d7b2ef4bd7"
 
 [[files]]
 file = "mods/seedguard.pw.toml"

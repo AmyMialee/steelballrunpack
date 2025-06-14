@@ -6,7 +6,7 @@ hash = "4f743f7ccc1a8eb1ea8e5349bd597f032a5b7cdced206ebacb8205b5dab5295f"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "68b3533d3e03aced2e4115057fc00214db5b280776ca64f6adf28b2a5333022e"
+hash = "b809939c24762b661e2f813c2653f118a5a2040a182cdb1227d0b24cca3493ec"
 
 [[files]]
 file = "config/nyfsspiders-common.toml"

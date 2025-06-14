@@ -2,6 +2,7 @@
   "disallowedEnchantments": [
     "minecraft:mending",
     "minecraft:unbreaking",
+	
 	"enchancement:assimilation",
 	"enchancement:perception",
 	"enchancement:veil",
@@ -34,7 +35,30 @@
 	"enchancement:bury",
 	"enchancement:scooping",
 	"enchancement:disarm",
-	"enchancement:grapple"
+	"enchancement:grapple",
+	
+	"minecraft:bane_of_arthropods",
+	"minecraft:fire_protection",
+	"minecraft:sweeping_edge",
+	"minecraft:soul_speed",
+	"minecraft:impaling",
+	"minecraft:piercing",
+	"minecraft:fortune",
+	"minecraft:density",
+	"minecraft:knockback",
+	"minecraft:punch",
+	"minecraft:projectile_protection",
+	"minecraft:smite",
+	"minecraft:blast_protection",
+	
+	"nova_structures:antidote",
+	"nova_structures:gravity",
+	"nova_structures:piercing",
+	"nova_structures:power",
+	"nova_structures:photosynthesis",
+	"nova_structures:wither_coated",
+	"nova_structures:wax_wings",
+	"nova_structures:illagers_bane"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": "DISABLED",

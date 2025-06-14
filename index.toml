@@ -199,6 +199,10 @@ hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
 
 [[files]]
+file = "mods/fortunate-1.0-SNAPSHOT-1.21.1.jar"
+hash = "850cc4d8e325e7080c2ced3dbcd026ad65712bb5c3315f3572fc066fa5cb9fcd"
+
+[[files]]
 file = "mods/full-tablist.pw.toml"
 hash = "10aedc0c7eb6a0d98bee32011521c48ef01f661e1edbe0abb6f644971da13bf5"
 metafile = true

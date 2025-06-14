@@ -333,11 +333,6 @@ hash = "98362357cbb70b039275c055bb357fad1bb8a1566d5713dd7cfd9132dd606886"
 metafile = true
 
 [[files]]
-file = "mods/replay-voice-chat.pw.toml"
-hash = "70a41355db1d707ce95e774aa7510fa77c049ac37979d612c0e029a5b177ee9d"
-metafile = true
-
-[[files]]
 file = "mods/replaymod.pw.toml"
 hash = "30a10b94f61da26b8187edc2591b1fd33c8aafa2550c610e0385bf6191269a03"
 metafile = true
